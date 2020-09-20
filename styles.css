@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5f7fa;
+  padding: 20px;
+  font-family: Montserrat;
+}
+.wrapper {
+  background-color: #ffffff;
+  display: flex;
+}
+
+.sidebar {
+  background-color: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my_photo {
+  width: 370px;
+  height: 295px;
+}
+
+.about_me {
+  padding-bottom: 110px;
+  padding-top: 110px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.contacts_container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contacts_container_titles {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.contacts_item {
+  color: #7d838d;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.contacts_link_type {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.skills_types_text {
+  color: #a1a6ac;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.skills_types_item {
+  color: #ff6b08;
+  margin-left: 20px;
+}
+.work_experience_title {
+  margin-bottom: 20px;
+}
+.about_me_header {
+  margin-bottom: 20px;
+}
+
+.work_experience_block {
+  margin-bottom: 20px;
+}
+
+.about_me_blocks {
+  margin-bottom: 10px;
+}
